@@ -23,13 +23,14 @@
                             class="nav-link active"
                             aria-current="page"
                             to="/"
-                            >Home
+                        >
+                            Home
                         </router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link class="nav-link" to="/login"
-                            >Login</router-link
-                        >
+                        <router-link class="nav-link" to="/login">
+                            Login
+                        </router-link>
                     </li>
                 </ul>
             </div>

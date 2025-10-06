@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="row">
-            <div class="col">
+            <div class="col d-flex align-items-center justify-content-center">
                 <img
                     src="./../assets/book-and-glasses.png"
                     alt="Book and glasses"
